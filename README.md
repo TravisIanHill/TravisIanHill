@@ -29,8 +29,8 @@ I turn complex B2B technology portfolios into clear, executable go-to-market sys
 
 | Project | What it shows |
 |---|---|
-| [product-marketing-portfolio](https://github.com/TravisIanHill/product-marketing-portfolio) | Six sanitized case studies, operating principles and the full capability range |
 | [household-platform](https://github.com/TravisIanHill/household-platform) | A self-hosted, privacy-first household app suite I designed and run like a product |
+| [product-marketing-portfolio](https://github.com/TravisIanHill/product-marketing-portfolio) | Six sanitized case studies, operating principles and the full capability range |
 
 ## Connect
 
