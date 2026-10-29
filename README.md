@@ -1,31 +1,36 @@
 # Hi, I'm Travis Hill
 
-Product marketer with about 25 years across product marketing, content, lifecycle marketing, customer experience and sales operations, mostly in B2B telecom, cloud and managed services. I connect product, marketing, sales and customer teams so launches land and customers stay.
+I turn complex B2B technology portfolios into clear, executable go-to-market systems that customers understand, sellers can use, and teams can measure and improve.
 
-**Open to:** Senior Product Marketing and Customer Success leadership roles, remote or Phoenix, AZ.
+25+ years across B2B telecom, cloud, managed services and operations, from frontline sales and service operations through business building, product management, customer experience and senior product marketing.
+
+**Open to:** Senior Product Marketing, GTM Strategy and Customer Experience leadership roles, remote or Phoenix, AZ.
 
 ## What I do
 
-- **Product marketing:** positioning, packaging, interoperability and partner launches, P&L ownership for managed services products
-- **Customer experience:** onboarding and retention metrics, QBR support for named enterprise and public sector accounts, renewal and expansion
-- **Building from zero:** stood up a business services organization as employee #1, including order entry, Salesforce administration and enterprise sales
-- **Content and lifecycle:** HubSpot certified in SEO and Content Marketing
+- **Product marketing systems:** positioning, messaging architecture, segmentation and reusable PMM source layers
+- **Managed services:** product management and GTM for a large cloud and managed services portfolio, including the RapidScale product suite and NOCaaS
+- **Field activation:** seller enablement, targeted plays and the feedback loops that show what's working
+- **Lifecycle and CX:** onboarding, adoption and retention measurement that goes past launch day
+- **Portfolio transformation:** turning merger-era portfolio decisions into executable readiness plans
+- **Applied AI:** governed, human-reviewed AI workflows for research, content and operations
 
-## Career highlights
+## Selected results
 
-- Built a business services org from scratch at Cable One and replanned a 10-year, market-by-market rollout so every market had product parity, launching **12 months ahead of schedule**
-- Owned product P&L (growth, MRC, ARPU, product health) for managed services including NOCaaS, partnering with account teams on high-profile enterprise and government accounts
-- Defined the retention and onboarding metrics for a UCaaS partner launch and secured cross-functional agreement on them
-- Started on the phones in sales, then ran a call center and a business operations and sales support team
+- Product-by-segment messaging architecture across ~40 products and nine personas; the live field pilot hit a **52% connection rate** among customers called
+- Onboarding and lifecycle work that helped **hold churn at or below 3%** while a cloud communications offer grew **70%+ above forecast**
+- Helped build a multi-state business services operation supporting **75 to 100 installs a day** across 19 states, with **31%+ annual growth**
 
-**Path:** Time Warner Cable · Cable One · RapidScale · Cox Business
+**Path:** Time Warner Cable · Cable One · Cox Business (now Spectrum Business)
+
+**Certifications:** Pragmatic Institute Certified Product Marketer · HubSpot SEO and Content Marketing
 
 ## Selected work
 
 | Project | What it shows |
 |---|---|
-| [household-platform](https://github.com/TravisIanHill/household-platform) | A self-hosted, privacy-first household app suite I designed and run, built like a product: user needs, principles, specs, tested releases |
-| product-marketing-portfolio *(coming soon)* | Sanitized case studies, launch frameworks and templates from my PMM and CX work |
+| [product-marketing-portfolio](https://github.com/TravisIanHill/product-marketing-portfolio) | Six sanitized case studies, operating principles and the full capability range |
+| [household-platform](https://github.com/TravisIanHill/household-platform) | A self-hosted, privacy-first household app suite I designed and run like a product |
 
 ## Connect
 
