@@ -9,7 +9,7 @@ I turn complex B2B technology portfolios into clear, executable go-to-market sys
 ## What I do
 
 - **Product marketing systems:** positioning, messaging architecture, segmentation and reusable PMM source layers
-- **Managed services:** product management and GTM for a large cloud and managed services portfolio, including the RapidScale product suite and NOCaaS
+- **Managed services:** product management and GTM for a large cloud and managed services portfolio
 - **Field activation:** seller enablement, targeted plays and the feedback loops that show what's working
 - **Lifecycle and CX:** onboarding, adoption and retention measurement that goes past launch day
 - **Portfolio transformation:** turning merger-era portfolio decisions into executable readiness plans
